@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A2_1155162628</string>
+    <string name="Default">Default Chatroom</string>
+    <string name="back">Back</string>
+    <string name="hint">Type a message...</string>
+    <string name="sent">Sent</string>
+</resources>
